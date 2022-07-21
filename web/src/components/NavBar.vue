@@ -27,12 +27,16 @@
             <li><hr class="dropdown-divider"></li>
             <li><a class="dropdown-item" href="#">Exit</a></li>
           </ul>
-        </li>
-       
+        </li>    
       </ul>
     </div>
   </div>
 </nav>
+
+
+
+ 
+
     
 </template>
 
@@ -55,5 +59,6 @@ export default{
 </script>
 
 <style scoped>
+
 
 </style>
