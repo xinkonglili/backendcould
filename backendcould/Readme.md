@@ -1,0 +1,6 @@
+- properties 一定要变成叶子形状，选择图中高亮部分创建配置文件
+- ![img.png](img/img.png)
+- RestTemplate：可以在2个springboot之间进行通信
+- 异步：就是不按照顺序执行的
+- 同步：就是按照顺序执行的
+- ctrl + shift + F  //全局搜索

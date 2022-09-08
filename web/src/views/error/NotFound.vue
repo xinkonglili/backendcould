@@ -1,16 +1,16 @@
 <template>
-     <containFile>
+     <ContentField>
         404 Not Found
-    </containFile>
+    </ContentField>
 </template>
 
 
 <script>
-import containFile from '../../components/containFile.vue'
+import ContentField from '../../components/ContentField.vue'
 
 export default{
     components:{
-        containFile
+        ContentField
     }
 }
 
